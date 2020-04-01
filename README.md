@@ -5,3 +5,5 @@ The aim of this project is to classify a given image, recorded by Wireless Capsu
 - Approach 1: Sparse coding is used for intensity based features.
 - Approach 2: Sparse coding is combined with Dense SIFT descriptors and LBP features.
 - Approach 3: Similar to Approach 2 but sparse coding is combined with SIFT keypoints descriptors and LBP features.
+
+The third method performs the best among the all the methods and achieves f1-score of 98.18. 
